@@ -191,7 +191,6 @@ fieldset {
   margin-bottom: 5px; /* отступ из figma*/
   position: relative;
   padding-bottom: 5px;
-  /*border-bottom: 1px solid #fff;*/
 }
 
 .search-form__label {
